@@ -1,5 +1,5 @@
 
-@keyframes spinner {
+@keyframes spin {
 from {width: 0px;
   height: 0px:
     opacity: 0;}
@@ -8,7 +8,7 @@ to {widht: 10px;
   opacity: 100;}
 }
 
-#spinner {transform: translate(-50%,-50%)
+#spin {transform: translate(-50%,-50%)
   animation: spin 1s infinite;
   border-radius:30%;
   position:absolute;
