@@ -1,1 +1,20 @@
 
+@keyframes spin {
+from {width: 0px;
+  height: 0px:
+    opacity: 0;}
+to {widht: 10px;
+  hieght: 10px;
+  opacity: 100;}
+}
+
+#spinner {transform: translate(-50%,-50%)
+  animation: spin 1s infinite;
+  border-radius:30%;
+  position:absolute;
+  top:50%;
+  left:50%;
+  background-color:red;
+  height:2em;
+  widht:150px;
+}
