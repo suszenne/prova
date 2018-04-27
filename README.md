@@ -3,7 +3,7 @@
   <body>
   <head>
     <style>
-      <div id="spinner"></div>
+      <div id="spin"></div>
      
 </style>
 <h1> ciao </h1>
