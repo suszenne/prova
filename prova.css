@@ -1,7 +1,8 @@
 
 
-a {
-  color: red;
+a:hover {
+color : Red;
+ text-decoration : underline;
 }
 
 @keyframes caricamento {
