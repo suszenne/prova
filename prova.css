@@ -24,9 +24,9 @@ to {widht: 150px;}
 }
 
 #barra {
-  background-color: red;
+  background-color: blue;
   height: 10px;
-  width: 150px;
+  width: 80vh;
   animation: caricamento 5s;
 }
 #barra: hover {width: 150px;
