@@ -1,5 +1,6 @@
 # prova.html
 <html>
+  <link rel="stylesheet" href="prova.css">
   <body>
   <head>
     <div id="barra"></div>
