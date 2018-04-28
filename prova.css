@@ -14,7 +14,6 @@ to {widht: 150px;}
   transition: all 10s;
 }
 
-
-a:link {
-  color: red;
+a {
+  color: #F58529;
 }
