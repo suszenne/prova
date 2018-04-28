@@ -1,20 +1,15 @@
 
-@keyframes spin {
-from {width: 0px;
-  height: 0px:
-    opacity: 0;}
-to {widht: 10px;
-  hieght: 10px;
-  opacity: 100;}
+@keyframes caricamento {
+from {width: 5px;}
+to {widht: 150px;}
 }
 
-#spin {transform: translate(-50%,-50%)
-  animation: spin 1s infinite;
-  border-radius:30%;
-  position:absolute;
-  top:50%;
-  left:50%;
-  background-color:red;
-  height:2em;
-  widht:150px;
+#barra {
+  background-color: red;
+  height: 100px;
+  width: 5px;
+  animation: caricamento 1s;
+}
+#barra: hover {width: 150px;
+  transition: all 10s;
 }
