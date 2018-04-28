@@ -5,7 +5,7 @@ a:link {
 }
 
 a:visited {
- color : purple;
+ color : green;
  text-decoration: none
 }
 
@@ -27,7 +27,7 @@ to {widht: 150px;}
   background-color: red;
   height: 10px;
   width: 150px;
-  animation: caricamento 10s;
+  animation: caricamento 5s;
 }
 #barra: hover {width: 150px;
   transition: all 10s;
