@@ -15,6 +15,6 @@ to {widht: 150px;}
 }
 
 
-a {
+a:link {
   color: red;
 }
