@@ -2,10 +2,7 @@
 <html>
   <body>
   <head>
-    <style>
-      <div id="spin"></div>
-     
-</style>
+    <div id="barra"></div>
 <h1> ciao </h1>
 </head>
 </body>
