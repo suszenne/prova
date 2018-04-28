@@ -1,4 +1,13 @@
 
+a:link {
+ color : blue;
+ text-decoration: none
+}
+
+a:visited {
+ color : purple;
+ text-decoration: none
+}
 
 a:hover {
 color : Red;
@@ -16,9 +25,9 @@ to {widht: 150px;}
 
 #barra {
   background-color: red;
-  height: 100px;
-  width: 5px;
-  animation: caricamento 1s;
+  height: 10px;
+  width: 1500px;
+  animation: caricamento 10s;
 }
 #barra: hover {width: 150px;
   transition: all 10s;
