@@ -13,3 +13,12 @@ to {widht: 150px;}
 #barra: hover {width: 150px;
   transition: all 10s;
 }
+
+
+a {
+  color: red;
+  webkit-transition
+  moz_transition
+  transition: all 0.25s ease out
+    text decoration
+}
