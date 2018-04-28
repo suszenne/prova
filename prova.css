@@ -26,7 +26,7 @@ to {widht: 150px;}
 #barra {
   background-color: red;
   height: 10px;
-  width: 1500px;
+  width: 150px;
   animation: caricamento 10s;
 }
 #barra: hover {width: 150px;
