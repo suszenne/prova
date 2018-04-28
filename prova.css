@@ -4,6 +4,10 @@ a:hover {
 color : Red;
  text-decoration : underline;
 }
+a:active {
+ color : Red;
+ text-decoration: underline;
+}
 
 @keyframes caricamento {
 from {width: 5px;}
