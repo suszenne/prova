@@ -4,7 +4,10 @@
   <body>
   <head>
     <div id="barra"></div>
-<h1> ciao </h1>    
+<h1> ciao </h1>   
+    <style>
+      <div id="spin"> </div>
+    </style>
 </head>
     <li>
       <a href="https://www.youtube.com/watch?v=GlZ5WdXswEQ"> 99 </a> </li>
