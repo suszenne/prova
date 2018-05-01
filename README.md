@@ -6,7 +6,7 @@
     <div id="barra"></div>
 <h1> ciao </h1>   
     <style>
-      <div id="spin"> </div>
+      <div id="spinner"> </div>
     </style>
 </head>
     <li>
